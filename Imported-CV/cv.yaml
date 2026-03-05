@@ -1,13 +1,8 @@
 cv:
-  name: Meri
+  name: Meric
   location: "San Francisco, CA"
   email: "john.doe@email.com"
-  website: https://rendercvasdcom
-  social_networks:
-    - network: "LinkedIn"
-      username: "rendercv"
-    - network: "GitHub"
-      username: "rendercv"
+  website: https://rendecvasdcom
   sections:
     education:
       - institution: "Princeton University"
